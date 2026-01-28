@@ -1,11 +1,10 @@
 Sistema de Pedidos - MI POLICRUSH
 
-Este es un programa sencillo para **registrar, ver y eliminar pedidos**. Fue creado para ayudar en la gestión de ventas de forma rápida desde la computadora.
-
+Este es un programa sencillo para **registrar, ver y eliminar pedidos** de una aplicación de arreglos y detalles para la comunidad politécnica
 📋 ¿Qué puedes hacer?
-* ✅ **egistrar:** Guardar datos del cliente y su pedido.
-* 📊 **Ver:** Mostrar todos los pedidos en una tabla limpia.
-* ❌ **Eliminar:** Borrar pedidos usando su código.
+**Registrar:** Guardar datos del cliente y su pedido.
+**Ver:** Mostrar todos los pedidos en una tabla limpia.
+**Eliminar:** Borrar pedidos usando su código.
 
 
 Creado por: Mateo Rodriguez
