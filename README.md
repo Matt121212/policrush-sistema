@@ -1,4 +1,4 @@
- Sistema de Pedidos - MI POLICRUSH
+Sistema de Pedidos - MI POLICRUSH
 
 Este es un programa sencillo para **registrar, ver y eliminar pedidos**. Fue creado para ayudar en la gestión de ventas de forma rápida desde la computadora.
 
